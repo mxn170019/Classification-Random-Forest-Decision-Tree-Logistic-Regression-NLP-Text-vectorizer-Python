@@ -1,4 +1,4 @@
-# Spam-Detection-Random-Forest-Decision-Tree-Logistic-Regression-NLP-Text-vectorizer-Python
+#Classification-Random-Forest-Decision-Tree-Logistic-Regression-NLP-Text-vectorizer-Python
 Import the files and merge them into a single dataset.
 Conducted exploratory steps including any visuals to describe the dataset.
 Create a model to predict the binary categorical variable named “target” including:
